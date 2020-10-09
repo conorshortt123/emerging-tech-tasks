@@ -8,11 +8,11 @@
 [2]
 ![Newton's Method](images/newtons_method.png)
 
-Newton's Method of calculating square roots is an iterative root-finding algorithm, that produces successively better approximations of the root. Where ${\alpha}_{0} $ is an initial approximation of $\sqrt{N}$. If the initial approximation is suitably chosen, the process converges quickly and accurate approximations to $\sqrt{N}$ are obtained after only a few iterations. However, if extended multiple-precision approximations to $\sqrt{N}$ are sought, the computation time increases rapidly because of the times required for dividing ${N}$ by a many-digit number. Generally, the time required for floating-point division on modern electronic computers compared to floating-point multiplication is at least twice as much for double precision computations.
+Newton's Method of calculating square roots is an iterative root-finding algorithm, that produces successively better approximations of the root. Where **a0** is an initial approximation of the square root of **N**. If the initial approximation is suitably chosen, the process converges quickly and accurate approximations of root **N** are obtained after only a few iterations. However, if extended multiple-precision approximations to root **N** are sought, the computation time increases rapidly because of the times required for dividing **N** by a many-digit number. Generally, the time required for floating-point division on modern electronic computers compared to floating-point multiplication is at least twice as much for double precision computations.
 
 ![Iterational Accuracy](images/iterations.png)
 
-This is an example of the algorithm each time it runs. Where ${\alpha}_{0}=1$, ${\alpha}_{1}=1.5$, and so on for 5 iterations until it is accurate to 100 decimal places (python can only display 52).
+This is an example of the algorithm each time it runs. Where **a0 = 1**, **a1 = 1.5**, and so on for 5 iterations until it is accurate to 100 decimal places (python can only display 52).
 
 ### References
 [1] The square root of 2; Ian McLoughlin; https://web.microsoftstream.com/video/214c8379-7c67-45b5-910d-39ec5d269223<br/>
