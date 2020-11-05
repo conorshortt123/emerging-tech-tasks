@@ -14,7 +14,19 @@ Newton's Method of calculating square roots is an iterative root-finding algorit
 
 This is an example of the algorithm each time it runs. Where **a0 = 1**, **a1 = 1.5**, and so on for 5 iterations until it is accurate to 100 decimal places (python can only display 52).
 
+# TASK 2 - Calculating Chi-Squared (Pearson's Method)
+
+![jupyter markdown](images/Jupyter_markdown.png)
+
 ### References
+#### Task 1
 [1] The square root of 2; Ian McLoughlin; https://web.microsoftstream.com/video/214c8379-7c67-45b5-910d-39ec5d269223<br/>
 [2] The square root of 2 to 1 million decimals; Jacques Dutka; https://www.jstor.org/stable/2004359?seq=1&cid=pdf-reference<br/>
 [3] Methods of Computing Square Roots; Wikipedia; https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
+
+#### Task 2
+[1] Chi-squared test; Wikipedia;
+https://en.wikipedia.org/wiki/Chi-squared_test<br>
+[2] Pearson's Chi-squared test; Wikipedia;
+https://en.wikipedia.org/wiki/Pearson's_chi-squared_test<br>
+[3] Chi-Square Procedures for the Analysis of Categorical Frequency Data; Richard Lowry; https://web.archive.org/web/20171022032306/http://vassarstats.net:80/textbook/ch8pt1.html <br>
