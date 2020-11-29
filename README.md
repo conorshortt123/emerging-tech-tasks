@@ -1,5 +1,20 @@
 # Emerging-Technologies-Labs
 
+## Getting Started:
+* Download the latest version of Python 3.
+* Download Anaconda
+
+## Running the Program
+```
+Navigate to the project directory in either Anaconda Prompt or CMD
+```
+```
+Run command jupyter notebook in terminal
+```
+```
+Go to > http://localhost:8888/tree
+```
+
 # TASK 1 - Calculating the square root of 2
 
 *The square root of 2 or root 2 is represented using the square root symbol √ and written as √2 whose value is 1.414. This value is widely used in mathematics. Root 2 is an irrational number as it cannot be expressed as a fraction and has an infinite number of decimals. So, the exact value of the root of 2 cannot be determined.*
