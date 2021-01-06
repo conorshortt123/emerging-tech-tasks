@@ -1,4 +1,4 @@
-# Emerging-Technologies-Labs
+# Emerging-Technologies-Tasks
 
 ## Getting Started:
 * Download the latest version of Python 3.
