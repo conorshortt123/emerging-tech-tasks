@@ -117,7 +117,7 @@ K means works through the following iterative process:
 ### References
 [1] The square root of 2; Ian McLoughlin; https://web.microsoftstream.com/video/214c8379-7c67-45b5-910d-39ec5d269223<br/>
 [2] The square root of 2 to 1 million decimals; Jacques Dutka; https://www.jstor.org/stable/2004359?seq=1&cid=pdf-reference<br/>
-[3] Methods of Computing Square Roots; Wikipedia; https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
+[3] Methods of Computing Square Roots; Wikipedia; https://en.wikipedia.org/wiki/Methods_of_computing_square_roots<br/>
 [4] Chi-squared test; Wikipedia;
 https://en.wikipedia.org/wiki/Chi-squared_test<br>
 [5] Pearson's Chi-squared test; Wikipedia;
